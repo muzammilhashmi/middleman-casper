@@ -38,7 +38,7 @@ if you want to customise your anchor text, you can do that too! Here's a link to
 Images work too! Already know the URL of the image you want to include in your
 article? Simply paste it in like this to make it show up:
 
-![The Ghost Logo](http://computer.getsimplesite.com/rent.jpg)
+![The Ghost Logo](http://computer.getsimplesite.com/staticwebsite.png)
 
 Not sure which image you want to use yet? That's ok too. Leave yourself a
 descriptive placeholder and keep writing. Come back later and drag and drop the
