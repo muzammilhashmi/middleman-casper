@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.example.com/2013/10/26/welcome-to-ghost/index.html</loc>
-    <lastmod>2016-02-05T06:19:55+00:00</lastmod>
+    <lastmod>2016-02-05T06:36:38+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.example.com/index.html</loc>
-    <lastmod>2016-02-05T06:22:14+00:00</lastmod>
+    <lastmod>2016-02-05T06:39:04+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.example.com/author/zammu/index.html</loc>
-    <lastmod>2016-02-05T06:22:14+00:00</lastmod>
+    <lastmod>2016-02-05T06:39:04+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.example.com/tag/getting-started/index.html</loc>
-    <lastmod>2016-02-05T06:22:14+00:00</lastmod>
+    <lastmod>2016-02-05T06:39:04+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
