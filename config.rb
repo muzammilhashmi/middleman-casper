@@ -14,9 +14,9 @@ config[:casper] = {
   author: {
     name: 'Zammu',
     bio: nil, # Optional
-    location: nil, # Optional
-    website: nil, # Optional
-    gravatar_email: nil, # Optional
+    location: Hyderabad, # Optional
+    website: www.zammu.in, # Optional
+    gravatar_email: 123@xyz.com, # Optional
     twitter: nil # Optional
   },
   navigation: {
